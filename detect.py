@@ -15,6 +15,8 @@ from PyQt5 import QtCore, QtWidgets, uic
 #path of tesseract
 pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'
 image_path = 'images/10.jpg'
+#image_path = r'C:\Users\Desktop\python1\automated parking system\new\images\2\6.jpg'
+#give the path of image in read only mode
 
 img = cv2.imread(image_path, cv2.IMREAD_UNCHANGED)
 img = imutils.resize(img, width=500)
