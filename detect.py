@@ -1,3 +1,5 @@
+#Image detection code
+
 import numpy as np
 import cv2
 import  imutils
