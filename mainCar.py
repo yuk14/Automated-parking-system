@@ -250,3 +250,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+#the contents of the tables can be viewed in your command prompt by using sql queries
