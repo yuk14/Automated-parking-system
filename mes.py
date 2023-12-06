@@ -12,6 +12,7 @@ import mysql.connector
 import time
 import requests
 
+#you need to have a fast2sms account 
 
 def entryMessage():
     url = "https://www.fast2sms.com/dev/bulkV2"
