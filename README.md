@@ -1,4 +1,4 @@
 # Automated-parking-system
-Author - <b>Yukthi Ramesh</b>
+Author - Yukthi Ramesh
 <br>
 Image detection of number plates of vehicles to assign parking slots to the vehicles.
